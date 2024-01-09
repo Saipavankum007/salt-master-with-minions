@@ -1,7 +1,7 @@
 site24x7:
   user:
     fullname: ABC
-    devicekey: in_2df8f77b87d561d5999d3139a8427937
+    devicekey: <your_device_key>
     proxy: None
     osArch: {{ grains['cpuarch'] }}
   installfile:
